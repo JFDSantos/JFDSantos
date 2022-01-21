@@ -1,5 +1,5 @@
-## Prazer, sou o Jeferson!
- <div>
+ <h2>Prazer, sou o Jeferson!</h2>
+ <div align="center">
   <a href="https://github.com/JFDSantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JFDSantos&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFDSantos&layout=compact&langs_count=16&theme=great-gatsby"/>
