@@ -2,7 +2,7 @@
  <h2 align="center">Prazer, sou o Jeferson!</h2>
  <div align="left">
   <a href="https://github.com/JFDSantos">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JFDSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=JFDSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFDSantos&theme=dracula&layout=compact&langs_count=16"/>
 </div>
  
