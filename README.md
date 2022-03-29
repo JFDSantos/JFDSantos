@@ -3,7 +3,7 @@
  <div align="center">
   <a href="https://github.com/JFDSantos">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JFDSantos&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFDSantos&theme=midnight-purple&layout=compact"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFDSantos&layout=compact&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Jeff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
